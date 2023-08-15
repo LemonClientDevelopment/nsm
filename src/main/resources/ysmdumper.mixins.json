@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "me.chirin.ysmdumper.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "O0o0ooO000OOOo000o0000OMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

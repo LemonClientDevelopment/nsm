@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "ysmdumper",
+  "version": "0.1.0",
+  "name": "My fabric mod",
+  "description": "Random utility mod for dumping YSM models.",
+  "authors": [
+    "AmeChirin"
+  ],
+  "environment": "client",
+  "mixins": [
+    "ysmdumper.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=${minecraft_version}"
+  }
+}
