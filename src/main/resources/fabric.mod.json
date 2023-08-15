@@ -12,6 +12,7 @@
     "ysmdumper.mixins.json"
   ],
   "depends": {
+    "yes_steve_model": "*",
     "minecraft": ">=${minecraft_version}"
   }
 }
